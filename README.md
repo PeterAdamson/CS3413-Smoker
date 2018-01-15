@@ -1,0 +1,2 @@
+# CS3413-Smoker
+A multithreaded c program to solve the smoker problem.  An agent randomly places two out of three of the following on a table: tobacco, matches, paper.  There are three smokers.  One needs paper and matches, one needs paper and tobacco, and one needs tobacco and matches.  Whichever smoker needs the two items placed on the table will grab those items, roll a cigarette, and then sleep for a random amount of time. Once the items are grabbed, the agent randomly places two new items on the table and the process repeats.
